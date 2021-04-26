@@ -1,0 +1,7 @@
+mojimoji
+logzero
+fugashi[unidic-lite]
+ipadic
+
+torchtext
+transformers
